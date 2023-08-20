@@ -10,3 +10,4 @@
 - [Zenn](https://zenn.dev/khirotaka)
 - [Blog](https://khirotaka.github.io)
 - [Kaggle](https://www.kaggle.com/hirotaka0122)
+- [Bluesky](https://bsky.app/profile/khirotaka.bsky.social)

@@ -4,6 +4,7 @@
 
 ### Certification
 [![CKA](badges/cka-certified-kubernetes-administrator.png)](https://www.credly.com/badges/1001426e-9106-4022-a9fe-6214567539c1/public_url)
+[![CKAD](badges/ckad-certified-kubernetes-application-developer.png)](https://www.credly.com/badges/a98da0ce-d049-4ba9-84cf-488daeb599f4/public_url)
 [![KCNA](badges/kcna-kubernetes-and-cloud-native-associate.png)](https://www.credly.com/badges/a52cad53-33d6-4f91-a579-8f789a380e04/public_url)
 
 ### Blogs
